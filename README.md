@@ -7,6 +7,8 @@ This project is a handwritten digit recognition system that leverages a neural n
 * Prediction.py- Contains functions for making predictions with the trained model.
 * GUI.py- Implements a Tkinter-based interface for user interaction.
 
+  # Packages installed and utilised
+
 * numpy- Provides support for large, multi-dimensional arrays and matrices, along with mathematical functions to operate on them.
 * scipy- Offers scientific and technical computing tools, including optimization algorithms used to train the neural network.
 * pillow- A library for image processing tasks, including loading, manipulating, and saving images.
